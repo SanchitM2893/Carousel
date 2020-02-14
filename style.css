@@ -1,0 +1,36 @@
+.item p {
+    width: 100%;
+    padding: 50px;
+    height: 500px;
+    font-family: monospace;
+    font-size: 20px;
+    background-color: #e0edff;
+} 
+
+#demo .carousel-control {
+    top: 215px;
+	font-size: 45px;
+	background-image: none;
+	color: #006bff;
+}
+
+
+
+.carousel-inner .item {
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+	
+}
+
+.carousel-inner {
+    background-color: #e0edff;
+}
+
+
+
+body .container{
+    border: 2px dotted #79a3f7;
+	padding-right: 0px; 
+    padding-left: 0px;
+}
